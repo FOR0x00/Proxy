@@ -1,0 +1,12 @@
+#openai
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+
+#claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+
+#grok
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+
