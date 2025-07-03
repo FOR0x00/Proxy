@@ -1,12 +1,19 @@
-#openai
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chatgpt.com
+#ChatGPT
+DOMAIN-SUFFIX, chatgpt.com
+DOMAIN-SUFFIX, oaistatic.com
+DOMAIN-SUFFIX, oaiusercontent.com
+DOMAIN-SUFFIX, openai.com
 
-#claude
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
+#Claude
+DOMAIN-SUFFIX, anthropic.com
+DOMAIN-SUFFIX, claude.ai
 
-#grok
-DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,grok.com
+#Gemini
+DOMAIN, ai.google.dev
+DOMAIN, bard.google.com
+DOMAIN, gemini.google.com
+DOMAIN, aida.googleapis.com
+DOMAIN, aistudio.google.com
+DOMAIN, makersuite.google.com
+DOMAIN, generativelanguage.googleapis.com
 
