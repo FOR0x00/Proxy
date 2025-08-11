@@ -1,0 +1,14 @@
+payload:
+  - '+.openai.com'
+  - '+.chatgpt.com'
+  - '+.oaiusercontent.com'
+  - '+.oaistatic.com'
+
+  - '+.anthropic.com'
+  - '+.claude.ai'
+
+  - '+.jetbrains.ai'
+  - '+.grazie.ai'
+  - '+.grazie.aws.intellij.net'
+
+  - '+.diabrowser.engineering'
