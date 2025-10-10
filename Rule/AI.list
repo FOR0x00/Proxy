@@ -17,3 +17,7 @@ DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,diabrowser.engineering
 DOMAIN-SUFFIX,diabrowser.com
 DOMAIN-SUFFIX,arc.net
+
+#Gemini
+DOMAIN,ai.google.dev
+DOMAIN-SUFFIX,gemini.google.com
