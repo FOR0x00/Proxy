@@ -2,3 +2,4 @@ DOMAIN-SUFFIX,zwhouse.cn
 DOMAIN-SUFFIX,seeyon-api.net
 DOMAIN-SUFFIX,seeyoncloud.com
 IP-CIDR,10.0.0.0/24,no-resolve
+IP-CIDR,10.10.10.0/24,no-resolve
