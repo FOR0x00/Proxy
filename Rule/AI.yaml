@@ -6,6 +6,7 @@ payload:
 
   - '+.anthropic.com'
   - '+.claude.ai'
+  - '+.claude.com'
 
   - '+.jetbrains.ai'
   - '+.grazie.ai'
