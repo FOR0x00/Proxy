@@ -3,6 +3,8 @@ payload:
   - '+.chatgpt.com'
   - '+.oaiusercontent.com'
   - '+.oaistatic.com'
+  - '+.sentry.io'
+  - '+.stripe.com'
 
   - '+.anthropic.com'
   - '+.claude.ai'
