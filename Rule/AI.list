@@ -34,3 +34,7 @@ DOMAIN-SUFFIX,apis.google.com
 
 #Typesafe
 DOMAIN-SUFFIX,typesafe.ai
+
+#Facebook
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,muse.ai
